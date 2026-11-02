@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+statsmodels
+scikit-learn
+skforecast>=0.25,<0.26
+holidays
+keras
+torch
